@@ -10,7 +10,7 @@ con=psycopg2.connect(
 
 print('Verbindung mit der postgreSQL Datenbank wird hergestellt ...')
 
-#Verbindung erfolgreich check
+#Verbindung erfolgreich hergestellt
 print ('Verbindung mit der postgreSQL Datenbank erfolgreich hergestellt!')
 
 #Cursor erstellen
